@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rmz6174j3-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/rmz6174j3-dotnet-basic-gitops
